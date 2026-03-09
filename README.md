@@ -69,6 +69,7 @@ pip install -r requirements.txt
 ### 🪟 Windows
 
 ```bash
+git clone https://github.com/elstati0n/Big-Bro.git
 pip install -r requirements.txt
 ```
 
@@ -79,6 +80,7 @@ Then **double-click `BigBro.pyw`** — UAC prompt will appear, accept it, app la
 ### 🐧 Linux
 
 ```bash
+git clone https://github.com/elstati0n/Big-Bro.git
 pip install -r requirements.txt
 
 sudo apt install libnotify-bin      # toast notifications
@@ -195,7 +197,3 @@ All data is stored **next to the script** — no hardcoded system paths:
 ```
 
 ---
-
-## 📜 License
-
-MIT
