@@ -1,0 +1,15 @@
+# Big Bro – Python dependencies
+# Install:  pip install -r requirements.txt
+#
+# Windows-only stdlib (no pip): winsound
+# Linux extras:
+#   sudo apt install libnotify-bin   (notify-send — toast notifications)
+#   sudo apt install pulseaudio-utils (paplay — sounds)
+#   sudo apt install ufw             (firewall block, or iptables is preinstalled)
+
+psutil>=5.9.0          # Network connection enumeration (cross-platform)
+requests>=2.31.0       # HTTP client (cross-platform)
+Pillow>=10.0.0         # Image handling (cross-platform)
+pystray>=0.19.4        # System-tray icon (Windows + Linux + macOS)
+plyer>=2.1.0           # Toast notifications — Windows (Linux uses notify-send)
+cryptography>=41.0.0   # Fernet encryption for API key storage
