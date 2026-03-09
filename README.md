@@ -1,5 +1,5 @@
 #  Big Bro — Network Connection Monitor
-[![Uploading archer_circle_icon__1_-6.png…]()](https://github.com/elstati0n/Big-Bro/blob/main/archer_circle_icon__1.png)
+![Big Bro Icon](https://raw.githubusercontent.com/elstati0n/Big-Bro/main/archer_circle_icon__1.png)
 
 > Real-time network connection monitor with IP reputation checking, port scanning, firewall blocking, and Telegram alerts. Runs on **Windows** and **Linux**.
 
