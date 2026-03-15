@@ -200,4 +200,6 @@ All data is stored **next to the script** — no hardcoded system paths:
     └── ip_cache.json           # reputation cache
 ```
 
----
+## License
+
+MIT License. See [LICENSE](LICENSE) for details.
